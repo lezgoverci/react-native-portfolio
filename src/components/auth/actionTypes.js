@@ -1,0 +1,7 @@
+const AUTH = {
+  LOGIN_FB: 'AUTH-LOGIN-FB',
+  LOGIN_GOOGLE: 'AUTH-LOGIN-GOOGLE',
+  LOGOUT: 'AUTH-LOGOUT'
+}
+
+export default AUTH;
